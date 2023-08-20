@@ -1,0 +1,9 @@
+
+docs_dir: markdown-content
+
+site_name: Live Tinder App
+
+## theme: readthedocs
+
+theme:
+  name: terminal
