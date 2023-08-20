@@ -1,9 +1,9 @@
 
-## docs_dir: project-documentation
+docs_dir: markdown-content
 
-docs_dir: repository-documentation
+site_name: Tinder App // Soy Yo Mateo
 
-site_name: Software Shinobi Eternal Repository Template
+## theme: readthedocs
 
 theme:
 
