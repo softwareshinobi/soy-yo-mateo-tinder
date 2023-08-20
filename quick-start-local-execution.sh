@@ -1,6 +1,28 @@
 
-localPort=8888
+reset
 
-firefox http://localhost:$localPort &
+clear
 
-docker run --rm -it -p $localPort:8000 -v ${PWD}:/docs titom73/mkdocs
+##
+
+pwd
+
+cd project-documentation
+
+pwd
+
+##
+
+reset
+
+clear
+
+##
+
+docker-compose -f .docker-compose.yaml down --remove-orphans
+
+docker-compose -f .docker-compose.yaml up
+
+## firefox http://localhost:8888 &
+
+## docker run --rm -it -p $localPort:8000 -v ${PWD}:/docs titom73/mkdocs
