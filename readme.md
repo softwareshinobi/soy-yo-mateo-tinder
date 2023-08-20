@@ -2,11 +2,11 @@
 
 ## Mateo M. 37
 
-<img src="../markdown-content/profile-imagery/mateo-on-the-balcony-at-the-embassy.jpg" alt= “” width="225" height="225">
+<img src="markdown-content/profile-imagery/mateo-on-the-balcony-at-the-embassy.jpg" alt= “” width="225" height="225">
 
-<img src="../markdown-content/profile-imagery/mateo-taganga-playa-blanca.jpg" alt= “” width="225" height="225">
+<img src="markdown-content/profile-imagery/mateo-taganga-playa-blanca.jpg" alt= “” width="225" height="225">
 
-<img src="../markdown-content/profile-imagery/mateo-taganga-hammock-life.jpg" alt= “” width="225" height="225">
+<img src="/markdown-content/profile-imagery/mateo-taganga-hammock-life.jpg" alt= “” width="225" height="225">
 
 A la mierda lo que planeabas hacer esta noche.
 
