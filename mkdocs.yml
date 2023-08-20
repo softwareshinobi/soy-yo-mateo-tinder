@@ -7,4 +7,7 @@ site_name: Tinder App // Soy Yo Mateo
 
 theme:
 
-  name: terminal
+## this comes from the docker project
+
+  name: superhero  
+  

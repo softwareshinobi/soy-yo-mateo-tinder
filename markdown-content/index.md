@@ -1,20 +1,12 @@
 # Mateo M. 37
 
-![Software Shinobi External Repository Template](a.jpg)
-![Software Shinobi External Repository Template](a.jpg)
-![Software Shinobi External Repository Template](a.jpg)
+<img src="pictures-imagery/mateo-on-the-balcony-at-the-embassy.jpg" alt= “” width="value" height="value">
 
-##
+![Software Shinobi External Repository Template](pictures-imagery/mateo-on-the-balcony-at-the-embassy.jpg)
 
-Fuck what you were planning to do tonight.
+![Software Shinobi External Repository Template](pictures-imagery/mateo-taganga-hammock-life.jpg)
 
-come hang out with me in taganga instead.
-
-Nothing of stress. Nothing of seriousness.
-
-Only pure fun.
-
-and a good time between two new friends.
+![Software Shinobi External Repository Template](pictures-imagery/mateo-taganga-playa-blanca.jpg)
 
 ## English (Original)
 
