@@ -8,12 +8,12 @@
 
 <img src="profile-imagery/mateo-taganga-hammock-life.jpg" alt= “” width="225" height="225">
 
-Rompe la rutina y prueba algo diferente hoy.
+A la mierda lo que planeabas hacer esta noche.
 
-Pasemos el rato y relajémonos juntos esta noche.
+ven a pasar el rato conmigo en taganga en su lugar.
 
-Nada de estrés. Nada de seriedad. Solo pura diversión y un buen rato entre dos nuevos amigos.
+Nada de estrés. Nada de seriedad.
 
-Después de que llegues a mi departamento, te dejaré poner la música en el parlante.
+Sólo pura diversión.
 
-¿Qué música vas a poner primero?
+y un buen rato entre dos nuevos amigos. con derechos.
