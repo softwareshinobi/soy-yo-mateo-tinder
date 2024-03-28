@@ -1,14 +1,10 @@
-# Tinder Profile // Soy Yo Mateo
+# Mateo 38
 
-## Mateo 37
+<img src="/imagery/mateo-on-the-balcony-at-the-embassy.jpg" alt= "" wdidth="225" heigaht="225">
 
-<img src="/images-pictures/mateo-on-the-balcony-at-the-embassy.jpg" alt= “” wdidth="225" heigaht="225">
+<img src="/imagery/mateo-taganga-playa-blanca.jpg" alt= "" widdth="225" heiaght="225">
 
-<img src="/images-pictures/mateo-taganga-playa-blanca.jpg" alt= “” widdth="225" heiaght="225">
-
-<img src="/images-pictures/mateo-taganga-hammock-life.jpg" alt= “” widdth="225" heiaght="225">
-
-<img src="/images-pictures/flag-of-jamaica.jpg" alt= “” widdth="225" heiaght="225">
+<img src="/imagery/mateo-taganga-hammock-life.jpg" alt= "" widdth="225" heiaght="225">
 
 A la mierda lo que planeabas hacer esta noche.
 

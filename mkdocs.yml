@@ -1,5 +1,5 @@
 
-docs_dir: project-documentation
+docs_dir: content
 
 site_name: Soy Yo Mateo
 
@@ -32,4 +32,4 @@ theme:
     
     nav_style: primary
 
-extra_css: [extra.css]
+extra_css: [styling.css]

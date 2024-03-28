@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+
+    soy-yo-mateo-tinder:
+
+        container_name: soy-yo-mateo-tinder
+
+        image: titom73/mkdocs
+      
+        restart: unless-stopped
+
+        volumes:
+        
+            - ${PWD}:/docs/content
+                      
+            - ${PWD}/mkdocs.yml:/docs/mkdocs.yml
+            
+        ports:
+
+            - 8888:8000
